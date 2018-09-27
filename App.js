@@ -1,5 +1,6 @@
-import React, {Component} from 'react';
-import {Dimensions, StyleSheet, View, WebView} from 'react-native';
+import React, {Component} from 'react'
+import {Dimensions, StyleSheet, View} from 'react-native'
+import { WebView } from 'react-native-webview'
 
 
 export default class App extends Component {
